@@ -1,0 +1,4 @@
+starter\SaludoProperties.class
+META-INF\spring-configuration-metadata.json
+starter\Saludo.class
+starter\SaludoAutoconfigure.class
